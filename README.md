@@ -6,7 +6,7 @@ A set of Python scripts designed to solve everyday problems and generate new ide
 
     Clone the repository from pythonistic-ideas.
     Navigate through the Python files to see which everyday problems are tackled.
-    Run the Python files and modify them to suit your needs.
+    Run the Python files and modify them to suit your needs as needed.
 
 🚛 How to deliver this project:
 
