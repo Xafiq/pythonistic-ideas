@@ -1,6 +1,7 @@
 # Pythonistic Ideas
 
 A set of Python scripts designed to solve everyday problems and generate new ideas for projects.
+
 🌱 How to start this project:
 
     Clone the repository from pythonistic-ideas.
@@ -11,7 +12,6 @@ A set of Python scripts designed to solve everyday problems and generate new ide
 
     Add your unique problem-solving code.
     Commit and push your changes.
-    Submit the or evaluation.
 
 📝 Instructions:
 
