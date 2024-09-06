@@ -11,7 +11,7 @@ A set of Python scripts designed to solve everyday problems and generate new ide
 
     Add your unique problem-solving code.
     Commit and push your changes.
-    Submit the repository link for feedback or evaluation.
+    Submit the or evaluation.
 
 📝 Instructions:
 
