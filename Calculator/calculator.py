@@ -60,6 +60,3 @@ while True:
 
     # Display the result
     print(f"{operation} result: {result}")
-
-
-#Xafiq
